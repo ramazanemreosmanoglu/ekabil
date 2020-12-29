@@ -23,7 +23,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## License
 
-This project distributed under the MIT License. See `LICENSE` for more information.
+This project distributed under the GPL v3.0 License. See `LICENSE` for more information.
 
 
 <!-- CONTACT -->
