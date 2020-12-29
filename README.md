@@ -1,4 +1,4 @@
-# Simple Theme Installer
+# Ekabil - Simple Theme Installer for Linux
 
 Beautify Your Linux!
 
