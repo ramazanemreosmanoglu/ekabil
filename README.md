@@ -8,7 +8,7 @@ You can easily install window themes, cursor themes, and gtk themes with this pr
 
 ## Roadmap
 
-See the [open issues](https://github.com/ramazanemreosmanoglu/SimpleThemeInstaller/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/ramazanemreosmanoglu/ekabil/issues) for a list of proposed features (and known issues).
 
 ## Contributing
 
